@@ -370,6 +370,7 @@
 "Assets/Characters/Animation/CharacterController.cs"
 "Assets/Characters/CharacterAnimationScript.cs"
 "Assets/Characters/CharacterControllerScript.cs"
+"Assets/ParticleLight/Scripts/UVScroller_C.cs"
 "Assets/Sci Fi Modular Pack/Scripts/CameraController.cs"
 "Assets/ScifiOfficeLite/Scripts/DemoDoor.cs"
 "Assets/ScifiOfficeLite/Scripts/DemoFirstPersonController.cs"

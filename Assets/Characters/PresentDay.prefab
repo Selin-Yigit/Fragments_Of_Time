@@ -2984,9 +2984,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e21464d2830514806aebee08905f1443, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementForce: 1
+  movementForce: 2
   jumpForce: 4.09
-  maxSpeed: 2.59
+  maxSpeed: 3
   playerCamera: {fileID: 0}
 --- !u!114 &7580208015294075618
 MonoBehaviour:

@@ -149,14 +149,14 @@ Puan Tamamlama Mantığı: Proje boyunca tamamlanması gereken backlog puanı 36
 
 
 - **Sprint Review:**
-  Sprint sonunda ekip ile bir toplantı gerçekleştirilmiş ve map'lerin tamamlanması, karakter animasyonları ve kodlarının durumu değerlendirilmiştir. Karşılaşılan sorunlar tartışılarak çözüm yolları belirlenmiştir ve proje tamamlanmıştır.
+  - Sprint sonunda ekip ile bir toplantı gerçekleştirilmiş ve map'lerin tamamlanması, karakter animasyonları ve kodlarının durumu değerlendirilmiştir. Karşılaşılan sorunlar tartışılarak çözüm yolları belirlenmiştir ve proje tamamlanmıştır.
 
-  Sprint Review Katılımcıları: Onur Özdemir, Sena Aksu, Selin Yiğit, Sema Nur Korkmaz
+  - Sprint Review Katılımcıları: Onur Özdemir, Sena Aksu, Selin Yiğit, Sema Nur Korkmaz
 
 - **Sprint Retrospective:**
- Sprint süreci boyunca elde edilen ilerleme ve tamamlanan görevler gözden geçirilmiştir.
-Proje sürecinde yaşanan zorluklar ve bu zorluklarla başa çıkma yöntemleri ele alınmıştır.
-Projenin genel başarısı değerlendirilmiş ve gelecekteki projeler için iyileştirme önerileri belirlenmiştir.
+ - Sprint süreci boyunca elde edilen ilerleme ve tamamlanan görevler gözden geçirilmiştir.
+- Proje sürecinde yaşanan zorluklar ve bu zorluklarla başa çıkma yöntemleri ele alınmıştır.
+- Projenin genel başarısı değerlendirilmiş ve gelecekteki projeler için iyileştirme önerileri belirlenmiştir.
 
 
 

@@ -142,6 +142,8 @@ Puan Tamamlama Mantığı: Proje boyunca tamamlanması gereken backlog puanı 36
 - ![image](https://github.com/user-attachments/assets/7b103db5-3aae-4746-b7e4-34cc6427563b)
 
 - ![image](https://github.com/user-attachments/assets/ba670ca7-8884-4530-a92f-c2d88c74fbc3)
+ 
+- ![image](https://github.com/user-attachments/assets/884d2e01-8ddf-49ac-b0c1-bed873317959)
 
 - ![image](https://github.com/user-attachments/assets/b0dcfcf9-65e9-4cec-8541-72ec9f0cd95c)
 
@@ -154,9 +156,9 @@ Puan Tamamlama Mantığı: Proje boyunca tamamlanması gereken backlog puanı 36
   - Sprint Review Katılımcıları: Onur Özdemir, Sena Aksu, Selin Yiğit, Sema Nur Korkmaz
 
 - **Sprint Retrospective:**
- - Sprint süreci boyunca elde edilen ilerleme ve tamamlanan görevler gözden geçirilmiştir.
-- Proje sürecinde yaşanan zorluklar ve bu zorluklarla başa çıkma yöntemleri ele alınmıştır.
-- Projenin genel başarısı değerlendirilmiş ve gelecekteki projeler için iyileştirme önerileri belirlenmiştir.
+  - Sprint süreci boyunca elde edilen ilerleme ve tamamlanan görevler gözden geçirilmiştir.
+  - Proje sürecinde yaşanan zorluklar ve bu zorluklarla başa çıkma yöntemleri ele alınmıştır.
+  - Projenin genel başarısı değerlendirilmiş ve gelecekteki projeler için iyileştirme önerileri belirlenmiştir.
 
-
+[Fragments of Time Video ](https://www.youtube.com/watch?v=L6-aZz721WM)
 

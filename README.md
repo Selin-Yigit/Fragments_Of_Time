@@ -133,6 +133,7 @@ Puan Tamamlama Mantığı: Proje boyunca tamamlanması gereken backlog puanı 36
 
 - **Sprint 3 Board Update
 
+- ![image](https://raw.githubusercontent.com/Selin-Yigit/Unity-Grup108-Bootcamp24/main/ScreenShots/Screenshot_20240803_103429_Chrome.jpeg)
 
 - **Ürün durumu ekran görüntüleri:**
 - ![image](https://github.com/user-attachments/assets/649fc297-adea-4d26-b8ad-b9f44b3b5a90)
